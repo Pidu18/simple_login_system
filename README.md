@@ -1,2 +1,2 @@
-# simple_login_system
-Login/Signup system without password encryption
+# PHP login system
+- without password encryption
